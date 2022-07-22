@@ -1,0 +1,12 @@
+{
+  "name": "cidadania-2020",
+  "displayName": "cidadania-2020",
+  "expo": {
+    "name": "cidadania-2020",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
